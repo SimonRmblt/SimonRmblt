@@ -1,5 +1,5 @@
 <h1 align="center">En recherche d'un stage de 4 à 6 mois en developement informatique entre le 04/07/2022 et le 30/12/2022</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">Je m'appelle Simon, j'ai 18 ans. Je suis passionné par l'informatique, le football et le piano. Je suis motivé, de bonne humeur, avec un bon esprit d'équipe. Je suis à la recherche d'un stage dans le domaine du développement informatique.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
