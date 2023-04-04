@@ -11,5 +11,5 @@
 
 
 <h3 align="left">Stats:</h3>
-<img align="left" style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=SimonRmblt&show_icons=true" alt="language stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonRmblt&layout=compact" alt="language stats">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonRmblt&show_icons=true&theme=tokyonight&locale=en" alt="SimonRmblt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonRmblt&theme=dark" alt="SimonRmblt" /></p>
